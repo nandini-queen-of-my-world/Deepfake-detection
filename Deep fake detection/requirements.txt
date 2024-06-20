@@ -1,0 +1,8 @@
+facenet-pytorch
+flask==2.0.1
+opencv-python
+Pillow==8.4.0
+torch
+torchvision
+numpy
+pytorch-grad-cam
